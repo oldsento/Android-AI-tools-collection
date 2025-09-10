@@ -40,13 +40,20 @@ https://github.com/benjaminwan/OcrLiteAndroidOnnx ，上面的精简版❓比它
 
 https://github.com/dev-diaries41/smartscan ，图片视频搜索移动，要10张参考图❗
 
-⭕各种坑：
-1，https://github.com/TianwanTW/LocalChat ，要自己签名❗
+## 各种坑：
+1.https://github.com/TianwanTW/LocalChat ，要自己签名❗
+
 2，https://github.com/DataXujing/Qwen1.5-0.5b-chat-android ，Qwen1.5-0.5B-chat模型
+
 3，https://github.com/xinntao/Real-ESRGAN ，图片修复放大，github安卓版源码不显示下载要浏览器打开才❗只有源码，PC端❗
+
 4，https://github.com/XPixelGroup/BasicSR ，问题同上❗不是安卓是PC端❗
+
 5，https://github.com/Lucchetto/SuperImage ，图片放大，只支持现实的❗目前被弃坑❗
+
 6，https://github.com/devzwy/open_nsfw_android ，色情图片识别，提供的下载挂了❗
+
 7，https://github.com/AAswordman/Operit ，1.2.3大小324.8m，必须从https://drive.google.com/drive/folders/1g-Q_i7cf6Ua4KX9ZM6V282EEZvTVVfF7?usp=sharing 下载3个依赖库(共200m，并放入有.keep的文件夹，安卓AI工具箱，AI问答绑定ds，目前不支持离线模型，要邀请2个人才能解锁全部功能😡辣鸡❌目前问答要API❗️
+
 8，https://github.com/rikkahub/rikkahub 在线，要API❗️
 9. 
