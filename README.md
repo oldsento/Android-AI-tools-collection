@@ -1,5 +1,7 @@
 ![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/Android-AI-tools-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=UTC)
 
+### 还有本帖没有提及的欢迎补充/提交
+
 https://github.com/google-ai-edge/gallery ，com.google.aiedge.gallery1.0.3大小115m，要挂v/或加载慢❗只提供几个模型诶，不支持中文，导入的模型格式是task，直接改guf不行可能要转换❗
 
 koishi，偏向命令提问AI辅助工具箱，有AI画图，目前安卓各种问题，安卓变成内置更新但容易失败，目前没啥用❗PC端外置更新，相关https://chii.in/group/topic/434872 ，https://github.com/koishijs/koishi-android 2年前更新，最新版002大小125m，
